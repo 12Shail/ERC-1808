@@ -52,4 +52,7 @@ The contract interfaces that developers can call are as follows:
 Run `npm install -g truffle` to install [Truffle framework](http://truffleframework.com/docs/getting_started/installation)
 
 Run `truffle test` to run the unit tests.
+Good project...
 
+Good project
+.
